@@ -20,7 +20,7 @@ This repository showcases my skills in data analysis and visualization using Pow
 
 ## Dataset Used
 
-The sales dataset used in this project is sourced from Atliq Hardwares, containing detailed information on sales transactions, products, customers, and more.
+The sales dataset used in this project was provided by the YouTube channel "Codebasics," containing detailed information on sales transactions, products, customers, and more.
 
 ## Future Improvements
 
